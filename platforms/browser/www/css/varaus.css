@@ -1,0 +1,57 @@
+/*
+*
+*@ Kategoria modify here
+*
+*/
+    #ul-kategoria {
+        list-style: none;
+        padding: 20px 20px 20px 20px;
+        overflow: hidden
+
+    }
+
+    #ul-kategoria li {
+        float: left;
+        border: none;
+        cursor: pointer;
+
+
+/*
+*
+*@ Palvelu modify here
+*
+*/
+
+    #ul-palvelu-varaus li img {
+        height: 80px;
+        width: 80px;
+        padding: 10px 10px 10px 10px;
+    }
+
+/*
+*
+*@ Aika modify here
+*
+*/
+    .aika {
+        border: 1px solid silver;
+        width: 80px;
+        float: left;
+    }
+
+/*
+*
+*@ palvelu sivu modify here
+*
+*/
+
+#palvelu-content > img {
+    padding: 10px 10px 10px 10px;
+    width: 80px;
+    height: 80px;
+}
+
+#palvelu-content #ul-palvelu {
+    cursor: pointer;
+}
+
